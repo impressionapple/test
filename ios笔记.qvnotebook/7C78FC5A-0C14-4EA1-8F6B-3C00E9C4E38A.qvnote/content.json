@@ -1,0 +1,10 @@
+{
+  "title": "iOS笔记本",
+  "cells": [
+    {
+      "type": "code",
+      "language": "objectivec",
+      "data": "#import <UIKit/UIKit.h>\n\n@interface AppDelegate : UIResponder <UIApplicationDelegate>\n\n@property (strong, nonatomic) UIWindow *window;\n\n\n@end\n"
+    }
+  ]
+}
